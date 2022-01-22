@@ -2,6 +2,8 @@
 
 
 
-### nota 1
+### instalaçao do git
 
-### nota 2
+### configuração do git 
+
+### comandos 

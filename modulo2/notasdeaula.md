@@ -12,3 +12,5 @@ Nesta aula estamos aprendendo comandos bem úteis.
 
 ### git add [caminho do arquivo]
  **adicionar um arquivo especifico**
+
+### git commit 
